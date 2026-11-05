@@ -1,0 +1,16 @@
+body{
+	background-color:#FAF9F6;
+}
+h1{
+	color:#5C4033;
+	text-align:center;
+}
+h2{
+	color:#6F4E37;
+	font-style:italic;
+}
+ul{
+	border:2px solid #6F4E37;
+	background-color:#FFFAF0;
+}
+
